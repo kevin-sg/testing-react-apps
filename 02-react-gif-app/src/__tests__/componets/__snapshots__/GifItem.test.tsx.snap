@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <GifItem/> should do math with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Luffy"
+      aria-label="Luffy-image"
+      src="https://www.xtrafondos.com/wallpapers/vertical/monkey-d-luffy-de-one-piece-4017.jpg"
+    />
+    <p>
+      Luffy
+    </p>
+  </div>
+</div>
+`;
