@@ -1,6 +1,4 @@
-//
-// const API_KEY = import.meta.env.VITE_APP_GIPHY;
-const API_KEY = "PetQhYAYokVa3bBaCrufTWkafzvgZ8Cv";
+const API_KEY = import.meta.env.VITE_APP_GIPHY;
 
 export const getImagen = async (): Promise<string> => {
   try {
